@@ -1,0 +1,15 @@
+export { EmailIcon } from "./EmailIcon";
+export { PhoneIcon } from "./PhoneIcon";
+export { LocationIcon } from "./LocationIcon";
+export { GitHubIcon } from "./GitHubIcon";
+export { LinkedInIcon } from "./LinkedInIcon";
+export { WebsiteIcon } from "./WebsiteIcon";
+export { CalendarIcon } from "./CalendarIcon";
+export { BuildingIcon } from "./BuildingIcon";
+export { CheckCircleIcon } from "./CheckCircleIcon";
+export { CodeIcon } from "./CodeIcon";
+export { ExternalLinkIcon } from "./ExternalLinkIcon";
+export { GraduationCapIcon } from "./GraduationCapIcon";
+export { StarIcon } from "./StarIcon";
+export { BadgeIcon } from "./BadgeIcon";
+export { UserAvatarIcon } from "./UserAvatarIcon";
