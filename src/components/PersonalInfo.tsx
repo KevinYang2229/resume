@@ -8,7 +8,7 @@ import {
   GitHubIcon,
   LinkedInIcon,
   WebsiteIcon,
-  UserAvatarIcon,
+  // UserAvatarIcon,
 } from "./icons";
 
 interface Props {
