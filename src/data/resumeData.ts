@@ -25,15 +25,27 @@ export const resumeData: ResumeData = {
       "Next.js",
       "Nuxt.js",
       "Redux",
+      "Sass",
     ],
-    後端技術: ["Node.js", "Express", "PostgreSQL", "MySQL", "Java", "Pro*C"],
-    開發工具: ["Git", "Docker", "GCP", "CI/CD", "Jest", "n8n"],
+    後端技術: [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "MySQL",
+      "SQLite",
+      "Supabase",
+      "RESTful API",
+      "Java",
+      "Pro*C",
+      "Shell Script",
+    ],
+    開發工具: ["Git", "Docker", "Swagger", "GCP", "CI/CD", "Jest", "n8n"],
     語言: ["中文（母語）", "英文（普通）"],
   },
 
   experiences: [
     {
-      title: "正工程師",
+      title: "正工程師 ( Senior Technical Engineer )",
       company: "友達光電股份有限公司",
       period: "2024/03 - 現在",
       description: [
@@ -43,7 +55,7 @@ export const resumeData: ResumeData = {
       ],
     },
     {
-      title: "高級工程師",
+      title: "高級工程師 ( Senior Technical Engineer )",
       company: "台灣大哥大股份有限公司",
       period: "2023/03 - 2024/03",
       description: [
@@ -53,7 +65,7 @@ export const resumeData: ResumeData = {
       ],
     },
     {
-      title: "系統分析師",
+      title: "系統分析師 ( Systems Analyst )",
       company: "博暉科技股份有限公司",
       period: "2021/11 - 2023/03",
       description: [
@@ -62,7 +74,7 @@ export const resumeData: ResumeData = {
       ],
     },
     {
-      title: "軟體工程師",
+      title: "軟體工程師 ( Senior Software Engineer )",
       company: "凌網全球科技股份有限公司",
       period: "2012/07 - 2021/11",
       description: [
@@ -72,7 +84,7 @@ export const resumeData: ResumeData = {
       ],
     },
     {
-      title: "初級工程師",
+      title: "軟體工程師 ( Junior Software Engineer )",
       company: "豐揚科技股份有限公司",
       period: "2010/05 - 2012/06",
       description: [
@@ -93,6 +105,7 @@ export const resumeData: ResumeData = {
         "Tailwind CSS",
         "Sass",
         "Markdown",
+        "Axios",
       ],
       link: "https://zhangsan.dev",
       github: "https://github.com/zhangsan/blog",
@@ -100,14 +113,14 @@ export const resumeData: ResumeData = {
     {
       name: "Pick-Mind 股票篩選系統（後端）",
       description: "提供股票篩選系統的 API 服務，支援前端需求並確保高效能。",
-      technologies: ["Express.js", "Node.js", "Supabase", "JWT"],
+      technologies: ["Express.js", "Node.js", "Supabase", "JWT", "RESTful API"],
       github: "https://github.com/zhangsan/todo-app",
     },
     {
       name: "Pick-Mind 股票篩選系統（App）",
       description:
         "整合多個天氣 API 的即時天氣預報應用，提供詳細的氣象資訊和 7 天預報。",
-      technologies: ["React Native", "JWT", "PWA"],
+      technologies: ["React Native", "JWT", "Axios", "Markdown"],
       link: "https://weather.zhangsan.dev",
     },
   ],
