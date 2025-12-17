@@ -12,7 +12,7 @@ export const resumeData: ResumeData = {
     github: "https://github.com/KevinYang2229",
     website: "zhangsan.dev",
     summary:
-      "具有 15 年以上軟體開發經驗的全端工程師，專精於 React、Node.js 和雲端服務。熱衷於創建高效能、可擴展的應用程式，並持續學習新技術。擅長團隊協作與敏捷開發流程，致力於提供卓越的使用者體驗。",
+      "具有 21 年以上軟體開發經驗的全端工程師，專精於 React、Node.js 和雲端服務。熱衷於創建高效能、可擴展的應用程式，並持續學習新技術。擅長團隊協作與敏捷開發流程，致力於提供卓越的使用者體驗。",
   },
 
   skills: {
@@ -92,6 +92,22 @@ export const resumeData: ResumeData = {
         "使用 Pro*C 開發帳單整合(台灣固網和台灣大哥大)",
       ],
     },
+    {
+      title: "客服人員 ( Customer Service Representative )",
+      company: "中華電信股份有限公司",
+      period: "2007/07 - 2010/05",
+      description: ["市話線上檢測", "網路障礙排除服務", "業務推廣"],
+    },
+    {
+      title: "測試專員 ( Testing Specialist )",
+      company: "中華電信股份有限公司",
+      period: "2003/01 - 2005/01",
+      description: [
+        "商業平台功能測試",
+        "網路使用手冊編輯",
+        "編寫TEST CASE 、USER MENU 線上使用手冊",
+      ],
+    },
   ],
 
   projects: [
@@ -131,7 +147,7 @@ export const resumeData: ResumeData = {
       school: "私立聖約翰科技大學",
       period: "2001 - 2005",
       // gpa: "3.8/4.0",
-      // honors: ["書卷獎（2017、2018）", "程式設計競賽第二名", "專題研究優等獎"],
+      honors: ["第一屆大黑客松程式儀表板冠軍", "設計系統成果發表"],
     },
   ],
 };
